@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49ab5092-5323-4e80-811d-160d9f5dfe17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stream/StreamCollectGroupBy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stream/StreamCollectGroupBy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lamdaIntro/InBuiltFuncationalInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lamdaIntro/InBuiltFuncationalInterface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2mHEcqsuGwPHwd9DSVv5gtMnIdu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -45,10 +41,13 @@
     "Application.Array_2d.executor": "Run",
     "Application.InBuiltFuncationalInterface.executor": "Run",
     "Application.PreLamda.executor": "Run",
+    "Application.StreamCollector.executor": "Run",
+    "Application.StreamCreation.executor": "Run",
+    "Application.StreamProcessing.executor": "Run",
     "Application.lamdaIntro.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "K:/project/rAJEEV",
     "node.js.detected.package.eslint": "true",
@@ -83,6 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726725186049</updated>
       <workItem from="1726725187152" duration="5141000" />
+      <workItem from="1726733358233" duration="6024000" />
     </task>
     <servers />
   </component>
